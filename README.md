@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Smagin</h1>
-<h3 align="center">I'm a Python developer. I work with Django, DRF, REST API, Sqlite3, PostgreSQL, Celery, Redis, Unittests, Aiogram. Also I work with Linux, Docker and Nginx.</h3>
+<h3 align="center">I'm a Python developer. I work with Django, DRF, REST API, Sqlite3, PostgreSQL, Celery, Redis, Unittests, Aiogram. I also work with Linux, Docker and Nginx.</h3>
 
 - 📫 How to reach me **Denis.Smagin.1988@gmail.com**
 
