@@ -12,7 +12,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smintank/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-smagin-py/)
 
-<br>
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,6 +31,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smintank&theme=shadow-green&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_height=170)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smintank&hide_progress=true&langs_count=10)
