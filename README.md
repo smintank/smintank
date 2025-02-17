@@ -33,5 +33,4 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smintank&theme=shadow-green&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_height=170)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smintank&hide_progress=true&langs_count=10)
